@@ -1,4 +1,4 @@
-![Sh0vel logo](/1000_F_273869865_BOk10EzsyA78dOhFYaLIVCE4eUI5DK7E.jpg)
+![Sh0vel logo](/oie_i9TLE9czG77X.jpg)
 #Sh0vel
 Sh0vel is an exploit letting bookmarklets run on almost any url, most notably chrome urls, allowing you to access permissions like developerPrivate or settingsPrivate from within an extension.
 
