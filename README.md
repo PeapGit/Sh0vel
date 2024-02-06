@@ -32,10 +32,10 @@ and you can replace chrome://file-manager with the SWA of your choosing.
 - Step 7: Click the extension icon. If done correctly, your bookmarklet will run!
 
 # Credits:
-Writable for helping me open SWAs as a normal tab
-Me for the finding the original API access exploit
-Peap for writing this github page.
-The rest of whelement: mental support while I struggled with random things
+- Writable for helping me open SWAs as a normal tab.
+- Zelgol1234 for the finding the original API access exploit
+- Peap (Is not in whelement by the way) for writing this github page.
+- The rest of whelement: mental support while I struggled with random things.
 
 
 # Explanation: 
