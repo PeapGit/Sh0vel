@@ -34,6 +34,7 @@ and you can replace chrome://file-manager with the SWA of your choosing.
 # Credits:
 Writable for helping me open SWAs as a normal tab
 Me for the finding the original API access exploit
+Peap for writing this github page.
 The rest of whelement: mental support while I struggled with random things
 
 
