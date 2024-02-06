@@ -1,8 +1,8 @@
 ![Sh0vel logo](/oie_i9TLE9czG77X.jpg)
-#Sh0vel
+# Sh0vel
 Sh0vel is an exploit letting bookmarklets run on almost any url, most notably chrome urls, allowing you to access permissions like developerPrivate or settingsPrivate from within an extension.
 
-#Steps:
+# Steps:
 - Step 1: Get code execution in an extension. This can be by point-blank, skiovox breakout (preferably), XSS, DNS spoofing, or some other wacky way, but you need code execution in the extension.
 
 - Step 2: Verify it has the correct permissions. For this to work, the following permissions are needed:
@@ -31,13 +31,13 @@ and you can replace chrome://file-manager with the SWA of your choosing.
 
 - Step 7: Click the extension icon. If done correctly, your bookmarklet will run!
 
-#Credits:
+# Credits:
 Writable for helping me open SWAs as a normal tab
 Me for the finding the original API access exploit
 The rest of whelement: mental support while I struggled with random things
 
 
-#Explanation: 
+# Explanation: 
 We can enable the extensions-on-chrome-urls flag to allow code to run as content scripts
 on chrome urls, but tabs.executeScript runs without access to some variables in the page it
 runs in, notably the chrome object. However, if the extension that invoked tabs.executeScript
